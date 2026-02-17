@@ -1,0 +1,3 @@
+User: vaishnavi08
+Balance: 100000.0
+Portfolio: {}
